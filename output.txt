@@ -1,1 +1,41 @@
+a = 1/0
+b = 5
+c = 3/4
+d = 2 3/4
+Objects in memory: 4
 
+1. denominator zero
+2. numerator zero
+3. negative value
+4. whole and numerator invalid
+5. unknown error
+6. bad constructor
+0. quit
+Choice: 1
+Count before: 5
+error: denominator cannot be zero.
+Count after: 5
+
+1. denominator zero
+2. numerator zero
+3. negative value
+4. whole and numerator invalid
+5. unknown error
+6. bad constructor
+0. quit
+Choice: 2
+Count before: 5
+error: denominator cannot be zero.
+Count after: 5
+
+1. denominator zero
+2. numerator zero
+3. negative value
+4. whole and numerator invalid
+5. unknown error
+6. bad constructor
+0. quit
+Choice: 0
+Count before: 5
+error: denominator cannot be zero.
+Count after: 5
